@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7349C003-EC6C-53D8-FBEF-9F25EEDBA16A}") = "Ride in Oze", "Assembly-CSharp-firstpass.csproj", "{47C90D78-D292-B88F-BC3B-C7B4C9BA2E04}"
+EndProject
+Project("{7349C003-EC6C-53D8-FBEF-9F25EEDBA16A}") = "Ride in Oze", "Assembly-UnityScript.unityproj", "{6EDAD8E6-29ED-3935-5A78-48124A3665DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47C90D78-D292-B88F-BC3B-C7B4C9BA2E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C90D78-D292-B88F-BC3B-C7B4C9BA2E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C90D78-D292-B88F-BC3B-C7B4C9BA2E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C90D78-D292-B88F-BC3B-C7B4C9BA2E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EDAD8E6-29ED-3935-5A78-48124A3665DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDAD8E6-29ED-3935-5A78-48124A3665DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDAD8E6-29ED-3935-5A78-48124A3665DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDAD8E6-29ED-3935-5A78-48124A3665DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
